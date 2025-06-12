@@ -1,0 +1,10 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# VS Code
+/back-end/.vscode/
+
+# Arquivos de configuração locais
+/src/main/resources/application.properties
